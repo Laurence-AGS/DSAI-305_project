@@ -13,3 +13,9 @@ The final project for course Interpretability and Explainability in AI
 ### Step 2: Set up virtual environment
 
 `python -m venv venv`
+
+### Step 3: Avtivate virual enviroment
+
+`Venv\Scripts\Activate`
+
+### step 4: Run the cells sequentially
