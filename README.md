@@ -14,7 +14,7 @@ The final project for course Interpretability and Explainability in AI
 
 `python -m venv venv`
 
-### Step 3: Avtivate virual enviroment
+### Step 3: Activate virtual environment
 
 `Venv\Scripts\Activate`
 
